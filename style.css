@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(45deg, rgb(0, 0, 0) 0%, rgb(67, 88, 116) 100%);
+}
+
+.testo {
+  text-align: left;
+}
+
+.preferiti {
+  margin-top: 2vw;
+  min-height: 50vh;
+}
+
+#best {
+  margin-top: 10vw;
+  min-height: 100vh;
+}
+
+#top20 {
+  margin-top: 5vw;
+  min-height: 100vh;
+}
+
+.titolo {
+  background-color: rgba(12, 31, 57, 0.631372549);
+  padding: 5vw;
+}
+
+.navbar {
+  background-color: rgba(12, 31, 57, 0.631372549);
+}
+
+.selettori {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
